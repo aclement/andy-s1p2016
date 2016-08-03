@@ -1,0 +1,16 @@
+- Quick look at Neon new and noteworthy
+  - JDT section, talk about substring completion
+  - Talk about templates
+  - Create new parameters from all method parameters - DEMO IT
+  - Multi select search - DEMO IT
+  - Jump back to top, switch to platform improvements
+  - Word wrap in editors, DEMO IT
+  - Split editor - maybe, if can get remember the linux key binding
+  
+- Quick look STS new and noteworthy
+  - Going to see a lot of this from Kris and martin so I'll just touch on a couple of things
+  - templates
+  - static imports
+  - rename related
+  - content assist: new
+  - content assist: factory
